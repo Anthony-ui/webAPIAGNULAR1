@@ -21,5 +21,5 @@ namespace webAPIAGNULAR1
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
     }
-    //hola que tal mi nombre es ricardo
+   
 }
