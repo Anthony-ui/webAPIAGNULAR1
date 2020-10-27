@@ -63,5 +63,5 @@ namespace webAPIAGNULAR1
             app.UseMvc();
         }
     }
-    //hola que tal como estas mi nombre es ricardo
+    
 }
